@@ -370,6 +370,11 @@ header .navbar ul li a:hover{
     display: none;
 }
 
+.top img{
+    width: 45px;
+    height: 45px;
+}
+
 .info img{
     width: 50px;
     height: 50px;
