@@ -32,25 +32,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 
-## 🤝 Autor & Colaboradores
+## 😎 Autor
 
 <a href="https://www.linkedin.com/in/wagner-vitor-novais">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89936463?s=400&u=e299a61a15d52f1558fb44bd041f81fcbaa06b41&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Wagner Vitor Novais</b></sub></a> <a href="https://github.com/Tsukhiro" title="Wagner">🚀</a>
+ 
+ <br>
 
-<br>
+## 🤝 Colaboradores
 
 <a href="https://www.youtube.com/channel/UCKwgH3vASrD2brd1l2m6NHw">
  <img style="border-radius: 50%;" src="https://o.remove.bg/downloads/62c5c0ea-f525-4702-b582-c40cb8770e4e/unnamed-removebg-preview.png" width="100px;" alt=""/>
  <br />
  <sub><b>Mr. Web Designer</b></sub></a> <a href="https://www.youtube.com/channel/UCKwgH3vASrD2brd1l2m6NHw" title="MrWebDesigner">🚀</a>
 
-<br><br>
 
-Feito com toda dedicação por Wagner Vitor 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-vitor-novais/)](https://www.linkedin.com/in/wagner-vitor-novais/)
  
 
 
